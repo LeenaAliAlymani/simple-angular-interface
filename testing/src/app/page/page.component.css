@@ -1,0 +1,46 @@
+/*
+* {
+    background-color: #FFFFFF;
+  }
+  
+  h3 {
+    color: #000000; 
+    text-align: right;
+  }
+  h1{
+    color: #ffffff; 
+    background-color: #A0712D;
+    text-align: right;
+  
+  }
+  table, th, td {
+    border-collapse: collapse;
+    width: 80%;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  input[type="submit"] {
+    background-color: #A0712D;
+    color: white;
+    padding: 3px 50px;
+    border: none;
+    cursor: pointer;
+  }  
+  
+  table {
+  margin: 0 auto;
+  }
+   
+  
+    
+  table td {
+    background-color: #f2f2f2;
+  }
+  */
+
+  /*
+  table tr:nth-child(even){
+  background-color: #f2f2f2;
+  }
+  */
